@@ -15,4 +15,4 @@ License
 -------
 
 Created by [Lejo](https://github.com/Lejo1)
-License: CC0
+License: MIT
